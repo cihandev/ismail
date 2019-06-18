@@ -1,0 +1,42 @@
+body{
+	background-color: #ededed;
+}
+
+.logo{
+	margin-left: 100px;
+}
+.logo img{
+	width: 100px;
+	height: 100px;
+}
+
+.yazi{
+	border: 1;
+	background-color: black;
+	height: 60px;
+	text-align: center;
+}
+
+.bagis{
+	border: 1px solid black;
+	margin-top: 10px;
+	height: 500px;
+}
+
+a{
+font-weight: bold;
+color: black;
+font-style: oblique;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+vertical-align: baseline;
+}
+ 
+a:hover {
+ font-weight: bold;
+color: maroon;
+font-style: oblique;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+vertical-align: baseline;
+}
